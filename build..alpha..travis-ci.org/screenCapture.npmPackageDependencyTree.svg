@@ -49,7 +49,7 @@
 <tspan x="10" y="746">  ├─┬ normalize-url@1.9.1 </tspan>
 <tspan x="10" y="762">  │ ├── object-assign@4.1.1 </tspan>
 <tspan x="10" y="778">  │ ├── prepend-http@1.0.4 </tspan>
-<tspan x="10" y="794">  │ ├─┬ query-string@4.3.3 </tspan>
+<tspan x="10" y="794">  │ ├─┬ query-string@4.3.4 </tspan>
 <tspan x="10" y="810">  │ │ └── strict-uri-encode@1.1.0 </tspan>
 <tspan x="10" y="826">  │ └─┬ sort-keys@1.1.2 </tspan>
 <tspan x="10" y="842">  │   └── is-plain-obj@1.1.0 </tspan>
