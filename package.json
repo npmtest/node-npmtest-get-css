@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [get-css (v1.2.3)](https://github.com/cssstats/get-css)  [![npm package](https://img.shields.io/npm/v/npmtest-get-css.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-get-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-get-css.svg)](https://travis-ci.org/npmtest/node-npmtest-get-css)",
+    "description": "#### basic test coverage for  [get-css (v1.2.3)](https://github.com/cssstats/get-css)  [![npm package](https://img.shields.io/npm/v/npmtest-get-css.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-get-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-get-css.svg)](https://travis-ci.org/npmtest/node-npmtest-get-css)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "get-css": "*",
